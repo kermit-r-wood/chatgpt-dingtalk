@@ -7,7 +7,7 @@ require (
 	github.com/chai2010/webp v1.1.1
 	github.com/eryajf/chatgpt-dingtalk v1.0.11
 	github.com/pandodao/tokenizer-go v0.2.0
-	github.com/sashabaranov/go-openai v1.17.6
+	github.com/sashabaranov/go-openai v1.27.0
 )
 
 replace github.com/eryajf/chatgpt-dingtalk v1.0.11 => ../..

@@ -17,6 +17,8 @@ var ModelsSupportChatCompletions = []string{
 	openai.GPT3Dot5Turbo16K,
 	openai.GPT3Dot5Turbo16K0613,
 	openai.GPT3Dot5Turbo,
+	openai.GPT4o,
+	openai.GPT4oMini,
 }
 
 func isModelSupportedChatCompletions(model string) bool {
